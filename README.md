@@ -2,7 +2,5 @@
 
 
 
-```
-https://raw.githubusercontent.com/i1oveyou/hobby/master/_posts/badminton/img/
-```
+
 
